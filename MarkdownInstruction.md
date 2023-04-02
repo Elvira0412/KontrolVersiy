@@ -100,3 +100,5 @@ pull request
 4. Фиксируем изменения (делаем коммиты)
 5. Отправляем свою версию в свой GitHub
 6. На сайте GitHub нажимаем кнопку pull request
+
+![PullRequest](pullreq.jpg)
